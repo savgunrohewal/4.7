@@ -6,5 +6,8 @@ Problems in original schema:
 - Repeated supplier data
 - Transitive dependencies
 - Mixed unrelated data
+- Mixed unrelated data
+- Mixed unrelated data
 
 The schema was redesigned to follow Third Normal Form (3NF).
+
