@@ -16,3 +16,6 @@ This project redesigns a broken e-commerce schema to follow Third Normal Form (3
 - queries/product_queries.sql
 - docs/problem-context.md
 - docs/video-script.md
+
+
+This is the read me file
